@@ -58,6 +58,7 @@ This project analyzes **historical gold prices** and predicts future trends usin
 
 ---
 
-### 📌 Steps to Upload the Project to GitHub
-1. **Initialize a Git repository**:
-Clone the repository:https://github.com/Nithindomala/Gold-price-forecasting.git
+## 🚀 How to Run the Python Notebook
+  Clone the repository:
+   ```sh
+   git clone https://github.com/Nithindomala/Gold-price-forecasting.git
